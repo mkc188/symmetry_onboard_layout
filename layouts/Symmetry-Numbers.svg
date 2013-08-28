@@ -39,16 +39,16 @@
  <rect id="Pause" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x="136.5"/>
  <rect id="Prnt" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x="98.5"/>
  <rect id="Scroll" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x="117.5"/>
- <rect id="F10" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="57.5" x=".5"/>
- <rect id="F5" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x="19.5"/>
- <rect id="F6" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x="38.5"/>
- <rect id="F11" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="57.5" x="19.5"/>
- <rect id="F7" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x=".5"/>
- <rect id="F8" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x="19.5"/>
- <rect id="F9" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x="38.5"/>
  <rect id="F1" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x=".5"/>
  <rect id="F2" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x="19.5"/>
  <rect id="F3" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x="38.5"/>
- <rect id="F4" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x=".5"/>
- <rect id="F12" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="57.5" x="38.5"/>
+ <rect id="F4" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y=".5" x="57.5"/>
+ <rect id="F5" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x=".5"/>
+ <rect id="F6" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x="19.5"/>
+ <rect id="F7" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x="38.5"/>
+ <rect id="F8" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="19.5" x="57.5"/>
+ <rect id="F9" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x=".5"/>
+ <rect id="F10" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x="19.5"/>
+ <rect id="F11" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x="38.5"/>
+ <rect id="F12" style="stroke:#000;fill:#e5d8b2" height="18" width="18" y="38.5" x="57.5"/>
 </svg>
